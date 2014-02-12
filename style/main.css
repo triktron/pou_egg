@@ -2,4 +2,12 @@
 
 body {
 	background-color:#000000;
+	color:#FFF;
+}
+
+#score {
+	position:absolute;
+	top:20%;
+	right:5%;
+	text-align:right;
 }
